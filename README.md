@@ -1,7 +1,5 @@
 # punto50
 
-## Video Demo: url
-
 ## Description
 
 Punto50 is the CLI version of a game my girlfriend and I play.
